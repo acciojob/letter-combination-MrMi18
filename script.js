@@ -1,4 +1,4 @@
-function letterCombinations(input_digit) {
+function letterCombinations(digits) {
   if (!digits) return [];
 
     const phoneMap = {
